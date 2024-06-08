@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning CrewAi, Zapier
 - 👯 I’m looking to collaborate on producing fast prototypes
 - 🤔 I’m looking for help with machine learning
-- 💬 Ask me about Java, and my absolute undying love for corporate programming
+- 💬 Ask me about Java, and my absolute undying love for working in Corporate America
 - 📫 How to reach me: ![image](https://github.com/codemusket/codemusket/assets/11220505/6eb6fe0f-e8d8-44f0-9e08-7e3a29225f65)
 - ⚡ Fun fact: Learning Mandarin Chinese, Cantonese, and Japanese
 - ❤️ Functional programming, TDD, Iterative Design, 10x Development, Low Code, Program Generation, Rapid Prototyping
