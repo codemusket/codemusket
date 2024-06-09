@@ -9,3 +9,5 @@
 - ⚡ Fun fact: Learning Mandarin Chinese, Cantonese, and Japanese
 - ❤️ Functional programming, TDD, Iterative Design, 10x Development, Low Code, Program Generation, Rapid Prototyping
 
+theme: jekyll-theme-hacker
+
