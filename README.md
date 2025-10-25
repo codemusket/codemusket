@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🎨 I'm super creative -- ask me to make a new idea, business, app, fun thing
+- 🎨 I'm super creative -- ask me to make a new idea, business, app, game, fun thing
 - 👯 I like Solutions Engineering, Design, hackathons, and building fast prototypes
 - 👔 I've led teams and released high profile work... blah blah blah..
 - 💬 Ask me about crypto and blockchain
